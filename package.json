@@ -1,0 +1,22 @@
+{
+  "name": "punch",
+  "version": "1.0.0",
+  "description": "自动脚本",
+  "main": "ding.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zhiyuan-porg/dingding_punch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhiyuan-porg/dingding_punch/issues"
+  },
+  "homepage": "https://github.com/zhiyuan-porg/dingding_punch#readme",
+  "dependencies": {
+    "puppeteer": "^15.5.0"
+  }
+}
